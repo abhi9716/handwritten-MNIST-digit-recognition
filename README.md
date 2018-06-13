@@ -1,4 +1,4 @@
-# handwritten digit recognition using OpenCV and Python
+# Handwritten Digit Recognition Using OpenCV and Python
 
 ## Dataset used
 For this project I used the MNIST dataset. It is freely available on the Internet.
